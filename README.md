@@ -4,22 +4,23 @@
 
 TO BE EDITED
 
-- What was your motivation? My motivation was to use hands on concept to learn the bases of creating a website.
-- Why did you build this project? I built this project so i could directly put in practice what I was learning along the way.
-- What problem does it solve? It solvew the problem of learning only abstract concepts by directly implimenting this concepts to a real project.
-- What did you learn? I believe thru this process I have learned few basics about how to build a simple webpage from scratch using HTML, Git, CSS, JavaScript and VS Code. 
-
+- What was your motivation? My motivation was to find out if i could learn few basics  and follow instrucrion on how to create a simple website using a hands on project.
+- Why did you build this project? I built this project so i could see what the process of building a website looks like.
+-  It solve the problem of starting the bootcamp with alittle experience in the subject which removes a bit of stress.
+- I believe thru this process I have learned few basics about how to build a simple webpage from scratch using:
+<ul> 
+<li>HTML.</list>
+<li>Git.</list>
+<li>CSS.>/list>
+<li>JavaScript.</list>
+<li>Terminal CL, Git, Github, and VS Code.</list> 
+</ul>
 ## Installation
 
 N/A
 ## Usage
 
-Provide instructions and examples for use. Include screenshots as needed.
-
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative file path, add it to your README using the following syntax:
-
-![alt text](assets/images/screenshot.png)
-
+N/A
 ## Credits
 
 N/A
